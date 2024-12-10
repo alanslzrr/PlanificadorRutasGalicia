@@ -14,6 +14,7 @@ st.set_page_config(page_title="Planificador de Rutas de Trenes de Galicia", layo
 
 # Título de la aplicación
 st.title("Planificador de Rutas de Trenes de Galicia")
+st.subheader("UIE - Base de Datos y Big Data")
 
 # Credenciales de Neo4j desde variables de entorno
 uri = os.getenv("NEO4J_URI")
