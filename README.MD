@@ -129,9 +129,4 @@ En el panel lateral de la aplicación, los administradores pueden seleccionar es
 - **Visualización Clara**: La representación gráfica de las rutas y estaciones facilita la comprensión de las conexiones y las alternativas disponibles.
 - **Escalabilidad**: La arquitectura basada en grafos de Neo4j permite manejar eficientemente grandes cantidades de estaciones y conexiones, facilitando futuras expansiones.
 
-## Conclusión
-
-El **Planificador de Rutas de Trenes de Galicia** es una herramienta poderosa que combina la gestión eficiente de datos con una interfaz de usuario intuitiva. Al integrar Neo4j para la gestión de grafos y Streamlit para la visualización interactiva, ofrece una solución robusta para la planificación de rutas ferroviarias, mejorando tanto la operación administrativa como la experiencia del usuario final.
-
-¡Esperamos que esta herramienta te sea de gran utilidad para gestionar y optimizar tus viajes en tren por Galicia!
-
+ 
